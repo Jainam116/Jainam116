@@ -50,13 +50,12 @@
 </div>
 
 ### 📊 GitHub Stats:
-
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JainamKhara&theme=radical" alt="Bottom Line" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JainamKhara&layout=compact&theme=radical" alt="Bottom Line" height="180" />
+</div>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JainamKhara&theme=dark&hide_border=false" alt="Jainam's Streak" />
-</p>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="700px" />
 </p>
 
 <!-- --- -->
