@@ -29,23 +29,27 @@
 
 <!-- About & Contact Section -->
 <div align="center">
-  <table width="100%" align="left">
+  <table>
     <tr>
-      <td width="70%" valign="top">
+      <td width="70%" valign="top" align="left">
+        <!-- Invisible spacer to force column width -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="600" height="1" alt="" />
         <h3>💫 About Me</h3>
         <ul>
           <li>🔭 Currently building <b>Drop Of Hope</b> (Blood Donation Management System)</li>
           <li>🌱 Masterlining <b>Next.js, React Native & Supabase</b></li>
           <li>💬 Ask me about <b>React, Tailwind CSS, JavaScript, Java, Python</b></li>
-          <li>📫 Email: <a href="mailto:kharajaynam@gmail.com"><b>kharajaynam@gmail.com</b></a></li>
+          <li>📫 Email: <a href="mailto:kharajaynam@gmail.com"><b>kharajaynam@gmail.com</b></a></li><br>
         </ul>
       </td>
       <td width="30%" valign="top" align="center">
+        <!-- Invisible spacer to force column width -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" alt="" />
         <h3>🌐 Connect With Me</h3>
         <br>
-        <a href="https://www.linkedin.com/in/jainamkhara/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" /></a>
+        <a href="https://www.linkedin.com/in/jainamkhara/" target="_blank"><img src="https://i.icoziv.workers.dev/icons?i=linkedin" alt="LinkedIn" height="50" width="50" /></a>
         &nbsp;&nbsp;
-        <a href="https://www.instagram.com/jainam___777/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="38" /></a>
+        <a href="https://www.instagram.com/jainam___777/" target="_blank"><img src="https://i.icoziv.workers.dev/icons?i=instagram" alt="Instagram" height="50" width="50" /></a>
       </td>
     </tr>
   </table>
