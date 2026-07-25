@@ -1,14 +1,10 @@
 ![Header](./header/github-header-banner.png)
 
-<br>
-
 <div align="center">
 
 <!-- Contributions Section -->
 <h3><code>jainam@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
-
-<br><br><br>
 
 <!-- Whoami Section -->
 <h3><code>jainam@github ~ $ whoami</code></h3>
@@ -23,7 +19,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
