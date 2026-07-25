@@ -392,6 +392,6 @@
   <rect class="box" x="815" y="80" width="11" height="11" fill="#161b22" style="animation-delay: 0.710s;" />
   <rect class="box" x="815" y="95" width="11" height="11" fill="#006d32" style="animation-delay: 0.722s;" />
   <rect class="box" x="815" y="110" width="11" height="11" fill="#161b22" style="animation-delay: 0.734s;" />
-  <rect class="box" x="815" y="125" width="11" height="11" fill="#006d32" style="animation-delay: 0.746s;" />
-  <text class="title-stat" x="35" y="190">520 contributions in the last year</text>
+  <rect class="box" x="815" y="125" width="11" height="11" fill="#26a641" style="animation-delay: 0.746s;" />
+  <text class="title-stat" x="35" y="190">523 contributions in the last year</text>
 </svg>
