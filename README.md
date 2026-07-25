@@ -1,101 +1,124 @@
 ![Header](./header/github-header-banner.png)
 
-<!-- --- -->
+<br>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div><br>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%"/>
+<!-- Contributions Section -->
+<h3><code>jainam@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
+<br><br><br>
 
-
-
-
-<!-- --- -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+<!-- Whoami Section -->
+<h3><code>avi@github ~ $ whoami</code></h3>
+<div style="background-color: #0b0e14; border: 1px solid #1f242c; border-radius: 12px; padding: 18px 12px; display: inline-block;">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" align="center" style="padding-right: 12px;"><img src="./avi-ascii.svg" width="410" /></td>
+      <td valign="top" align="center" style="padding-left: 12px;"><img src="./info-card.svg" width="430" /></td>
+    </tr>
+  </table>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jainamkhara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jainamkhara/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jainam___777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jainam___777/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/JainamKhara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/JainamKhara/" height="30" width="40" /></a>
-</p>
-
-<!-- --- -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-### 💫 About Me:
-- 🔭 I’m currently working on **Drop Of Hope (Blood Donation Management System)**
-- 🌱 I’m currently learning **Next Js, React Native, Supabase**
-- 💬 Ask me about **React, Tailwind CSS, JavaScript, Java, Python**
-- 📫 How to reach me: **kharajaynam@gmail.com**
+<br><br>
 
-<!-- --- -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
 </div>
 
+<br>
 
-### 💻 Tech Stack:
-<!-- 01. Languages -->
-<h3>01. Languages</h3>
-<p align="left">
+<!-- About & Contact Section -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>💫 About Me</h3>
+        <ul>
+          <li>🔭 Currently building <b>Drop Of Hope</b> (Blood Donation Management System)</li>
+          <li>🌱 Masterlining <b>Next.js, React Native & Supabase</b></li>
+          <li>💬 Ask me about <b>React, Tailwind CSS, JavaScript, Java, Python</b></li>
+          <li>📫 Email: <a href="mailto:kharajaynam@gmail.com"><b>kharajaynam@gmail.com</b></a></li>
+        </ul>
+      </td>
+      <td width="40%" valign="top" align="center">
+        <h3>🌐 Connect With Me</h3>
+        <br>
+        <a href="https://www.linkedin.com/in/jainamkhara/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" /></a>
+        &nbsp;&nbsp;
+        <a href="https://www.instagram.com/jainam___777/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="38" width="38" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
+</div>
+
+<br>
+
+<!-- Tech Stack Section -->
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  
+  <p><b>Languages</b></p>
   <img src="https://i.icoziv.workers.dev/icons?i=c,cpp,html5,css3,java,python,js,typescript,mysql,php" />
-</p>
-
-<!-- 02. Frameworks/Libraries -->
-<h3>02. Frameworks/Libraries</h3>
-<p align="left">
+  
+  <br><br>
+  
+  <p><b>Frameworks &amp; Libraries</b></p>
   <img src="https://i.icoziv.workers.dev/icons?i=react,nodejs,nextjs,express,tailwind,threejs,android,reactnative,expo,redux,vite,bootstrap,mui,radixui,reactrouter" />
-</p>
-
-<!-- 03. ML/Data -->
-<h3>03. ML/Data</h3>
-<p align="left">
+  
+  <br><br>
+  
+  <p><b>ML &amp; Data</b></p>
   <img src="https://i.icoziv.workers.dev/icons?i=tensorflow,pytorch,pandas,numpy,scikitlearn" />
-</p>
-
-<!-- 04. Cloud/DevOps & Tools -->
-<h3>04. Cloud/DevOps & Tools</h3>
-<p align="left">
+  
+  <br><br>
+  
+  <p><b>Cloud, DevOps &amp; Infrastructure</b></p>
   <img src="https://i.icoziv.workers.dev/icons?i=gcp,docker,firebase,supabase,mongodb,postgresql,prisma,git,github,vercel,netlify" />
-</p>
-
-
-
-
-
-<!-- --- -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JainamKhara&theme=radical" alt="Bottom Line" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JainamKhara&layout=compact&theme=radical" alt="Bottom Line" height="180" />
-</div>
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions" width="700px" />
-</p>
+<br><br>
 
-<!-- --- -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
 </div>
 
-### ✍️ Random Dev Quote
-<p align="center">
+<!-- Analytics & Highlights Section -->
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JainamKhara&theme=radical" height="175" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JainamKhara&layout=compact&theme=radical" height="175" />
+  
+  <br>
+
+<br><br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Divider" width="100%" />
+</div>
+
+<br>
+
+<!-- Quote Section -->
+<div align="center">
+  <h3>✍️ Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+</div>
 
+<br>
 
 <!-- --- -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-

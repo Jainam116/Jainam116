@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" width="420" height="500">
+  <style>
+    .bg { fill: #0d1117; stroke: #21262d; stroke-width: 1px; }
+    .header { fill: #161b22; }
+    .header-border { stroke: #21262d; stroke-width: 1px; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .title { font-family: "SFMono-Regular", Consolas, monospace; font-size: 11px; fill: #8b949e; }
+    .ascii-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 9.5px; fill: #8b949e; white-space: pre; }
+    .footer { font-family: "SFMono-Regular", Consolas, monospace; font-size: 10px; fill: #79c0ff; }
+  </style>
+  <rect class="bg" width="420" height="500" rx="12" ry="12" />
+  <path class="header-border" d="M 0 36 L 420 36" />
+  <circle class="dot-red" cx="18" cy="18" r="5" />
+  <circle class="dot-yellow" cx="34" cy="18" r="5" />
+  <circle class="dot-green" cx="50" cy="18" r="5" />
+  <text class="title" x="210.0" y="22" text-anchor="middle">avi@github: ~ ./portrait.sh</text>
+  <g transform="translate(16, 45.0)">
+    <clipPath id="clip-row-0">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.00s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-0)">===;;;;;;;;;;;;:::::::::::::::::::;;;;;;;;;;;;=====+</text>
+  </g>
+  <g transform="translate(16, 56.5)">
+    <clipPath id="clip-row-1">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.09s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-1)">=;;;;;;;;;;::::::::::::::::::::::::::::;;;;;;;;;====</text>
+  </g>
+  <g transform="translate(16, 68.0)">
+    <clipPath id="clip-row-2">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.18s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-2)">;;;;;;:::::::::::::::::::::::::::::::::::;;;;;;;;;;=</text>
+  </g>
+  <g transform="translate(16, 79.5)">
+    <clipPath id="clip-row-3">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.26s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-3)">;;;;;::::::::::::::::::''''''':::::::::::::;;;;;;;;;</text>
+  </g>
+  <g transform="translate(16, 91.0)">
+    <clipPath id="clip-row-4">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.35s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-4)">;;;::::::::::::'''''''':::;;:::''::::::::::::;;;;;;;</text>
+  </g>
+  <g transform="translate(16, 102.5)">
+    <clipPath id="clip-row-5">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.44s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-5)">;;::::::::::'''''''';+#%%%%%%%#*='':::::::::::;;;;;;</text>
+  </g>
+  <g transform="translate(16, 114.0)">
+    <clipPath id="clip-row-6">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.53s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-6)">;:::::::::''''''''=#@@@@@@@@@@@@@#;':::::::::::;;;;;</text>
+  </g>
+  <g transform="translate(16, 125.5)">
+    <clipPath id="clip-row-7">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.62s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-7)">::::::::'''''''''+@@@@@@%%%%####%@%=':::::::::::;;;;</text>
+  </g>
+  <g transform="translate(16, 137.0)">
+    <clipPath id="clip-row-8">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.71s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-8)">::::::::'''''''''%%%#+='.```..`:=#@%''':::::::::;;;;</text>
+  </g>
+  <g transform="translate(16, 148.5)">
+    <clipPath id="clip-row-9">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.79s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-9)">:::::::''''''''''#%@*`&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;.';*@#'''':::::::::;;;</text>
+  </g>
+  <g transform="translate(16, 160.0)">
+    <clipPath id="clip-row-10">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.88s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-10)">::::::''''''''''`;@%:'::==;`.;+**#%='''':::::::::;;;</text>
+  </g>
+  <g transform="translate(16, 171.5)">
+    <clipPath id="clip-row-11">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="0.97s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-11)">:::::''''''''''''`:#`&#160;':;:'&#160;&#160;+;===*;''':::::::::;;;;</text>
+  </g>
+  <g transform="translate(16, 183.0)">
+    <clipPath id="clip-row-12">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.06s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-12)">::::::'''''''''''`&#160;='&#160;&#160;&#160;&#160;&#160;&#160;.&#160;::&#160;&#160;`+:'':::::::::;;;;;</text>
+  </g>
+  <g transform="translate(16, 194.5)">
+    <clipPath id="clip-row-13">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.15s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-13)">::::::''''''''''''.;;'`.''`:;+*=:=*:':::::::::;;;;;;</text>
+  </g>
+  <g transform="translate(16, 206.0)">
+    <clipPath id="clip-row-14">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.24s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-14)">::::::''''''''''''':+:'.'`.`:;==;*+'::::::::;;;;;;;;</text>
+  </g>
+  <g transform="translate(16, 217.5)">
+    <clipPath id="clip-row-15">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.32s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-15)">:::::::'''''''''''';:+=:`&#160;&#160;&#160;`';+#+::::::::;;;;;;;;;;</text>
+  </g>
+  <g transform="translate(16, 229.0)">
+    <clipPath id="clip-row-16">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.41s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-16)">:::::::''''''''``'+%;`;*#****#%*;''::::::;;;;;;;;;;=</text>
+  </g>
+  <g transform="translate(16, 240.5)">
+    <clipPath id="clip-row-17">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.50s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-17)">:::::::::''''':=*#%%@+.&#160;'=*#####;=;:::::;;;;;;;;;===</text>
+  </g>
+  <g transform="translate(16, 252.0)">
+    <clipPath id="clip-row-18">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.59s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-18)">:::::::''':;=*%@@@%%%%%:&#160;&#160;.'=+#*.*%#*+=;;;;;;;;=====</text>
+  </g>
+  <g transform="translate(16, 263.5)">
+    <clipPath id="clip-row-19">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.68s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-19)">;::::::=*#%%@%%%%%%%%%%%+&#160;&#160;'.'+`.=%@@@@%#+;;;;======</text>
+  </g>
+  <g transform="translate(16, 275.0)">
+    <clipPath id="clip-row-20">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.76s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-20)">;;::;*%%%%%%%%%%%%%%%%%%%#'.&#160;&#160;:`;+%%%%%@@@#;========</text>
+  </g>
+  <g transform="translate(16, 286.5)">
+    <clipPath id="clip-row-21">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.85s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-21)">;;:;%@%%###%%%%%%%%%%%%%%%#.&#160;&#160;.`&#160;&#160;=@%@@@%%@+========</text>
+  </g>
+  <g transform="translate(16, 298.0)">
+    <clipPath id="clip-row-22">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="1.94s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-22)">;;:#@%%%###%%%%%%%%%%%%@@%@#.&#160;&#160;&#160;&#160;&#160;.%%%@@@%%#=====+++</text>
+  </g>
+  <g transform="translate(16, 309.5)">
+    <clipPath id="clip-row-23">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.03s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-23)">;;=%%%%%##%%%%%%%%%%%%%%@@%@#.&#160;&#160;&#160;&#160;&#160;+@%@@@%@%++++++++</text>
+  </g>
+  <g transform="translate(16, 321.0)">
+    <clipPath id="clip-row-24">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.12s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-24)">;;*@%%%%%%%%%@%%%%%%%%%%@@@%@*&#160;&#160;&#160;&#160;&#160;:@%@@@@@@*+++++++</text>
+  </g>
+  <g transform="translate(16, 332.5)">
+    <clipPath id="clip-row-25">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.21s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-25)">;;%@%%%%%%%%@@@@%%%%%%%@@@@@%@+&#160;&#160;&#160;&#160;'%%@@@@%@#+++++**</text>
+  </g>
+  <g transform="translate(16, 344.0)">
+    <clipPath id="clip-row-26">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.29s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-26)">;+@%%%%%%%%%@@@@@@@@@@@@@@@@@%@:&#160;&#160;&#160;'%@%@@@@@%*******</text>
+  </g>
+  <g transform="translate(16, 355.5)">
+    <clipPath id="clip-row-27">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.38s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-27)">;*@%%%%%%%%@@@@@@@@@@@@@@@@@@%%%.&#160;&#160;'@%@@@@@@@#******</text>
+  </g>
+  <g transform="translate(16, 367.0)">
+    <clipPath id="clip-row-28">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.47s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-28)">;*@%@%%%%%@@@@@@@@@@@@@@@@@@@@%@+&#160;&#160;.%@%@@@@%@#******</text>
+  </g>
+  <g transform="translate(16, 378.5)">
+    <clipPath id="clip-row-29">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.56s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-29)">=+@@@@%%%%@@@@@@@@@@@@@@@@@@@@@%@`&#160;.%@%@@@@@@%######</text>
+  </g>
+  <g transform="translate(16, 390.0)">
+    <clipPath id="clip-row-30">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.65s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-30)">=+@@@@@%%%@@@@@@@@@@@@@@@@@@@@@%@#&#160;`@%@@@@@@@@######</text>
+  </g>
+  <g transform="translate(16, 401.5)">
+    <clipPath id="clip-row-31">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.74s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-31)">=*@%@@@%%@@@@@@@@@@@@@@@@@@@@@@@%@;'@%@@@@@@@@%#####</text>
+  </g>
+  <g transform="translate(16, 413.0)">
+    <clipPath id="clip-row-32">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.82s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-32)">=*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%=@%@@@@@@@@%%%%%%</text>
+  </g>
+  <g transform="translate(16, 424.5)">
+    <clipPath id="clip-row-33">
+      <rect x="0" y="-10" width="0" height="15.5">
+        <animate attributeName="width" from="0" to="420" begin="2.91s" dur="0.13s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <text class="ascii-text" y="0" clip-path="url(#clip-row-33)">+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@%%%%%</text>
+  </g>
+  <text class="footer" x="16" y="488">avi@github:~$ whoami Avi Vashishta</text>
+</svg>
