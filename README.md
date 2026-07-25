@@ -44,7 +44,7 @@
       </td>
       <td width="30%" valign="top" align="center">
         <!-- Invisible spacer to force column width -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" alt="" />
+        <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" alt="" /> -->
         <h3>🌐 Connect With Me</h3>
         <br>
         <a href="https://www.linkedin.com/in/jainamkhara/" target="_blank"><img src="https://i.icoziv.workers.dev/icons?i=linkedin" alt="LinkedIn" height="50" width="50" /></a>
