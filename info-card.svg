@@ -20,26 +20,26 @@
   <circle class="dot-red" cx="18" cy="18" r="5" />
   <circle class="dot-yellow" cx="34" cy="18" r="5" />
   <circle class="dot-green" cx="50" cy="18" r="5" />
-  <text class="title" x="220.0" y="22" text-anchor="middle">avi@github: ~$ neofetch</text>
+  <text class="title" x="220.0" y="22" text-anchor="middle">jainam@github: ~$ neofetch</text>
   <g class="fade-row" style="animation-delay: 0.15s;">
-    <text class="username" x="25" y="65">avi@github</text>
-    <line class="divider-line" x1="120" y1="59" x2="415" y2="59" />
+    <text class="username" x="25" y="65">jainam@github</text>
+    <line class="divider-line" x1="165" y1="59" x2="415" y2="59" />
   </g>
   <g class="fade-row" style="animation-delay: 0.25s;">
     <text class="key" fill="#ff7b72" x="25" y="97">Now</text>
-    <text class="val" x="125" y="97">Software Engineer @ Dock.us</text>
+    <text class="val" x="125" y="97">Fullstack Dev @ Drop Of Hope</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.35s;">
-    <text class="key" fill="#ff7b72" x="25" y="122">Prev</text>
-    <text class="val" x="125" y="122">Founding Engineer @ Turgon AI</text>
+    <text class="key" fill="#ff7b72" x="25" y="122">Learning</text>
+    <text class="val" x="125" y="122">Next.js, React Native, Supabase</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.45s;">
     <text class="key" fill="#ff7b72" x="25" y="147">Also</text>
-    <text class="val" x="125" y="147">SDE + Instructor @ AccioJob (YC'21)</text>
+    <text class="val" x="125" y="147">Open Source Contributor &amp; AI Explorer</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.55s;">
     <text class="key" fill="#ff7b72" x="25" y="172">Edu</text>
-    <text class="val" x="125" y="172">B.Tech CS, IIIT Delhi '24</text>
+    <text class="val" x="125" y="172">B.Tech CS / Information Technology</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.65s;">
     <text class="divider-text" x="25" y="205">- Stack</text>
@@ -47,19 +47,19 @@
   </g>
   <g class="fade-row" style="animation-delay: 0.75s;">
     <text class="key" fill="#ff7b72" x="25" y="233">Frontend</text>
-    <text class="val" x="125" y="233">React, Next.js, TypeScript, R3F</text>
+    <text class="val" x="125" y="233">React, Next.js, React Native, Tailwind</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.85s;">
     <text class="key" fill="#ff7b72" x="25" y="258">Backend</text>
-    <text class="val" x="125" y="258">Node, NestJS, GraphQL, Django</text>
+    <text class="val" x="125" y="258">Node.js, Express, Python, Java, PHP</text>
   </g>
   <g class="fade-row" style="animation-delay: 0.95s;">
     <text class="key" fill="#ff7b72" x="25" y="283">AI / ML</text>
-    <text class="val" x="125" y="283">LangChain, Vercel AI SDK, OpenAI</text>
+    <text class="val" x="125" y="283">TensorFlow, PyTorch, Pandas, OpenCV</text>
   </g>
   <g class="fade-row" style="animation-delay: 1.05s;">
     <text class="key" fill="#ff7b72" x="25" y="308">Cloud</text>
-    <text class="val" x="125" y="308">AWS, Docker, Vercel, Prisma</text>
+    <text class="val" x="125" y="308">GCP, Docker, Firebase, Supabase, Vercel</text>
   </g>
   <g class="fade-row" style="animation-delay: 1.15s;">
     <text class="divider-text" x="25" y="341">- Highlights</text>
@@ -67,10 +67,10 @@
   </g>
   <g class="fade-row" style="animation-delay: 1.25s;">
     <text class="bullet" x="25" y="369">•</text>
-    <text class="val" x="45" y="369">Taught 100,000+ developers to code</text>
+    <text class="val" x="45" y="369">Building Drop Of Hope (Blood Donation Mgmt)</text>
   </g>
   <g class="fade-row" style="animation-delay: 1.35s;">
     <text class="bullet" x="25" y="393">•</text>
-    <text class="val" x="45" y="393">2 books • 100k+ podcast streams</text>
+    <text class="val" x="45" y="393">Full-Stack Web &amp; Mobile App Solutions</text>
   </g>
 </svg>

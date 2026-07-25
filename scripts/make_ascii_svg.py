@@ -39,7 +39,7 @@ def generate_ascii_svg(ascii_lines, output_path="avi-ascii.svg"):
     term_padding_y = 45
     
     card_width = 420
-    card_height = 500  # Exact matching height with info-card.svg
+    card_height = 500
     
     total_duration = 3.0
     row_delay = total_duration / max(num_rows, 1)
@@ -58,15 +58,15 @@ def generate_ascii_svg(ascii_lines, output_path="avi-ascii.svg"):
     svg.append('    .footer { font-family: "SFMono-Regular", Consolas, monospace; font-size: 10px; fill: #79c0ff; }')
     svg.append('  </style>')
     
-    # Outer Terminal Frame with rounded corners rx=12 ry=12
+    # Outer Terminal Frame
     svg.append(f'  <rect class="bg" width="{card_width}" height="{card_height}" rx="12" ry="12" />')
     
-    # Inner subtle window boundary path / line
+    # Header border line
     svg.append(f'  <path class="header-border" d="M 0 36 L {card_width} 36" />')
     svg.append('  <circle class="dot-red" cx="18" cy="18" r="5" />')
     svg.append('  <circle class="dot-yellow" cx="34" cy="18" r="5" />')
     svg.append('  <circle class="dot-green" cx="50" cy="18" r="5" />')
-    svg.append(f'  <text class="title" x="{card_width/2}" y="22" text-anchor="middle">avi@github: ~ ./portrait.sh</text>')
+    svg.append(f'  <text class="title" x="{card_width/2}" y="22" text-anchor="middle">jainam@github: ~ ./portrait.sh</text>')
     
     # Animated ASCII Rows
     for i, line in enumerate(ascii_lines):
@@ -87,13 +87,13 @@ def generate_ascii_svg(ascii_lines, output_path="avi-ascii.svg"):
         
     # Terminal Footer
     footer_y = card_height - 12
-    svg.append(f'  <text class="footer" x="{term_padding_x}" y="{footer_y}">avi@github:~$ whoami Avi Vashishta</text>')
+    svg.append(f'  <text class="footer" x="{term_padding_x}" y="{footer_y}">jainam@github:~$ whoami Jainam Khara</text>')
     
     svg.append('</svg>')
     
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(svg))
-    print(f"Generated ASCII Terminal SVG ({card_width}x{card_height}) at {output_path}")
+    print(f"Updated ASCII Terminal SVG for JainamKhara at {output_path}")
 
 if __name__ == "__main__":
     prepped_photo = "source-prepped.png"

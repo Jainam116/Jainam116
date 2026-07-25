@@ -15,7 +15,7 @@
   <circle class="dot-red" cx="18" cy="18" r="5" />
   <circle class="dot-yellow" cx="34" cy="18" r="5" />
   <circle class="dot-green" cx="50" cy="18" r="5" />
-  <text class="title" x="210.0" y="22" text-anchor="middle">avi@github: ~ ./portrait.sh</text>
+  <text class="title" x="210.0" y="22" text-anchor="middle">jainam@github: ~ ./portrait.sh</text>
   <g transform="translate(16, 45.0)">
     <clipPath id="clip-row-0">
       <rect x="0" y="-10" width="0" height="15.5">
@@ -288,5 +288,5 @@
     </clipPath>
     <text class="ascii-text" y="0" clip-path="url(#clip-row-33)">+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@%%%%%</text>
   </g>
-  <text class="footer" x="16" y="488">avi@github:~$ whoami Avi Vashishta</text>
+  <text class="footer" x="16" y="488">jainam@github:~$ whoami Jainam Khara</text>
 </svg>

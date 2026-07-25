@@ -11,7 +11,7 @@
 <br><br><br>
 
 <!-- Whoami Section -->
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>jainam@github ~ $ whoami</code></h3>
 <div style="background-color: #0b0e14; border: 1px solid #1f242c; border-radius: 12px; padding: 18px 12px; display: inline-block;">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>

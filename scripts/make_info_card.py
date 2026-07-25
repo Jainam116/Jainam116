@@ -5,19 +5,19 @@ def generate_info_card(output_path="info-card.svg"):
     height = 500
     
     sections = [
-        {"type": "header", "title": "avi@github"},
-        {"type": "kv", "key": "Now", "val": "Software Engineer @ Dock.us", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "Prev", "val": "Founding Engineer @ Turgon AI", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "Also", "val": "SDE + Instructor @ AccioJob (YC'21)", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "Edu", "val": "B.Tech CS, IIIT Delhi '24", "key_color": "#ff7b72"},
+        {"type": "header", "title": "jainam@github"},
+        {"type": "kv", "key": "Now", "val": "Fullstack Dev @ Drop Of Hope", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Learning", "val": "Next.js, React Native, Supabase", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Also", "val": "Open Source Contributor & AI Explorer", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Edu", "val": "B.Tech CS / Information Technology", "key_color": "#ff7b72"},
         {"type": "divider", "title": "Stack"},
-        {"type": "kv", "key": "Frontend", "val": "React, Next.js, TypeScript, R3F", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "Backend", "val": "Node, NestJS, GraphQL, Django", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "AI / ML", "val": "LangChain, Vercel AI SDK, OpenAI", "key_color": "#ff7b72"},
-        {"type": "kv", "key": "Cloud", "val": "AWS, Docker, Vercel, Prisma", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Frontend", "val": "React, Next.js, React Native, Tailwind", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Backend", "val": "Node.js, Express, Python, Java, PHP", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "AI / ML", "val": "TensorFlow, PyTorch, Pandas, OpenCV", "key_color": "#ff7b72"},
+        {"type": "kv", "key": "Cloud", "val": "GCP, Docker, Firebase, Supabase, Vercel", "key_color": "#ff7b72"},
         {"type": "divider", "title": "Highlights"},
-        {"type": "bullet", "val": "Taught 100,000+ developers to code", "color": "#7ee787"},
-        {"type": "bullet", "val": "2 books • 100k+ podcast streams", "color": "#7ee787"},
+        {"type": "bullet", "val": "Building Drop Of Hope (Blood Donation Mgmt)", "color": "#7ee787"},
+        {"type": "bullet", "val": "Full-Stack Web & Mobile App Solutions", "color": "#7ee787"},
     ]
     
     is_static = os.getenv("STATIC") == "1"
@@ -43,15 +43,15 @@ def generate_info_card(output_path="info-card.svg"):
         svg.append('    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }')
     svg.append('  </style>')
     
-    # Outer Terminal Frame rx=12 ry=12
+    # Outer Terminal Frame
     svg.append(f'  <rect class="bg" width="{width}" height="{height}" rx="12" ry="12" />')
     
-    # Inner border line
+    # Header border line
     svg.append(f'  <path class="header-border" d="M 0 36 L {width} 36" />')
     svg.append('  <circle class="dot-red" cx="18" cy="18" r="5" />')
     svg.append('  <circle class="dot-yellow" cx="34" cy="18" r="5" />')
     svg.append('  <circle class="dot-green" cx="50" cy="18" r="5" />')
-    svg.append(f'  <text class="title" x="{width/2}" y="22" text-anchor="middle">avi@github: ~$ neofetch</text>')
+    svg.append(f'  <text class="title" x="{width/2}" y="22" text-anchor="middle">jainam@github: ~$ neofetch</text>')
     
     current_y = 65
     row_count = 0
@@ -65,7 +65,7 @@ def generate_info_card(output_path="info-card.svg"):
         if item_type == "header":
             svg.append(f'  <g class="{row_class}" {style_attr}>')
             svg.append(f'    <text class="username" x="25" y="{current_y}">{item["title"]}</text>')
-            svg.append(f'    <line class="divider-line" x1="120" y1="{current_y-6}" x2="{width-25}" y2="{current_y-6}" />')
+            svg.append(f'    <line class="divider-line" x1="165" y1="{current_y-6}" x2="{width-25}" y2="{current_y-6}" />')
             svg.append('  </g>')
             current_y += 32
         elif item_type == "divider":
@@ -97,7 +97,7 @@ def generate_info_card(output_path="info-card.svg"):
     
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(svg))
-    print(f"Generated Neofetch Card SVG ({width}x{height}) at {output_path}")
+    print(f"Updated Neofetch Card SVG for JainamKhara at {output_path}")
 
 if __name__ == "__main__":
     generate_info_card()
