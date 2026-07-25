@@ -29,9 +29,9 @@
 
 <!-- About & Contact Section -->
 <div align="center">
-  <table width="100%">
+  <table width="100%" align="left">
     <tr>
-      <td width="60%" valign="top">
+      <td width="70%" valign="top">
         <h3>💫 About Me</h3>
         <ul>
           <li>🔭 Currently building <b>Drop Of Hope</b> (Blood Donation Management System)</li>
@@ -40,7 +40,7 @@
           <li>📫 Email: <a href="mailto:kharajaynam@gmail.com"><b>kharajaynam@gmail.com</b></a></li>
         </ul>
       </td>
-      <td width="40%" valign="top" align="center">
+      <td width="30%" valign="top" align="center">
         <h3>🌐 Connect With Me</h3>
         <br>
         <a href="https://www.linkedin.com/in/jainamkhara/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="38" width="38" /></a>
