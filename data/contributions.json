@@ -1,6 +1,6 @@
 {
   "username": "JainamKhara",
-  "total": 530,
+  "total": 525,
   "current_streak": 1,
   "longest_streak": 16,
   "best_day": {
@@ -9,11 +9,6 @@
     "level": 4
   },
   "days": [
-    {
-      "date": "2025-07-20",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-07-27",
       "count": 4,
@@ -275,7 +270,7 @@
       "level": 1
     },
     {
-      "date": "2025-07-21",
+      "date": "2026-07-26",
       "count": 0,
       "level": 0
     },
@@ -540,11 +535,6 @@
       "level": 2
     },
     {
-      "date": "2025-07-22",
-      "count": 2,
-      "level": 1
-    },
-    {
       "date": "2025-07-29",
       "count": 0,
       "level": 0
@@ -803,11 +793,6 @@
       "date": "2026-07-21",
       "count": 7,
       "level": 4
-    },
-    {
-      "date": "2025-07-23",
-      "count": 0,
-      "level": 0
     },
     {
       "date": "2025-07-30",
@@ -1070,11 +1055,6 @@
       "level": 2
     },
     {
-      "date": "2025-07-24",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-07-31",
       "count": 0,
       "level": 0
@@ -1333,11 +1313,6 @@
       "date": "2026-07-23",
       "count": 5,
       "level": 3
-    },
-    {
-      "date": "2025-07-25",
-      "count": 1,
-      "level": 1
     },
     {
       "date": "2025-08-01",
@@ -1600,11 +1575,6 @@
       "level": 0
     },
     {
-      "date": "2025-07-26",
-      "count": 2,
-      "level": 1
-    },
-    {
       "date": "2025-08-02",
       "count": 0,
       "level": 0
@@ -1861,7 +1831,7 @@
     },
     {
       "date": "2026-07-25",
-      "count": 13,
+      "count": 14,
       "level": 4
     }
   ]
