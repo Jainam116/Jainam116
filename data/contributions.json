@@ -1,8 +1,8 @@
 {
   "username": "JainamKhara",
-  "total": 529,
+  "total": 530,
   "current_streak": 5,
-  "longest_streak": 13,
+  "longest_streak": 19,
   "best_day": {
     "date": "2026-01-01",
     "count": 19,
@@ -536,8 +536,8 @@
     },
     {
       "date": "2026-08-24",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
     },
     {
       "date": "2025-08-26",
@@ -798,6 +798,11 @@
       "date": "2026-08-18",
       "count": 1,
       "level": 1
+    },
+    {
+      "date": "2026-08-25",
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-08-27",
